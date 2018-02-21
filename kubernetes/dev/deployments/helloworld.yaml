@@ -17,7 +17,7 @@ spec:
         version: v1
     spec:
       containers:
-      - image: gcr.io/kubernetes-gitops-dev/roles/helloworld:d3e77aa
+      - image: gcr.io/kubernetes-gitops-dev/roles/helloworld:18b863d
         name: helloworld
         ports:
         - containerPort: 80
